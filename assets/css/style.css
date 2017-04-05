@@ -1288,6 +1288,18 @@ input#cfsubmit:hover {
     font-size: 35px;
     font-weight: 700;
 }
+	.social-media a {
+    color: #203248;
+    text-decoration: none;
+    outline: 0 none;
+    padding: 0 10px;
+}
+	.social-media {
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: transparent;
+}
 .intro-content p.small-number {
     font-size: 45px !important;
     color: #203248;
