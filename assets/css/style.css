@@ -1295,6 +1295,9 @@ input#cfsubmit:hover {
     
 }
 
+.image-center{
+	margin-left: -35px;
+}
 .display-none{
 	display: none;
 }
